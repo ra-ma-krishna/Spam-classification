@@ -28,31 +28,7 @@ Developed a spam classification system to detect and filter out spam messages ac
 - **Python**, **scikit-learn**, **pandas**, **nltk**, **spaCy**, **Flask/FastAPI**.
 
 ## Results
-- Achieved an accuracy of **X%** (mention the accuracy if relevant) in classifying spam and non-spam messages.
+- Achieved an accuracy of **74%**  in classifying spam and non-spam messages.
 - Reduced false positives/negatives, improving spam detection performance.
 
-## How to Run the Project
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/spam-classification-nlp.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd spam-classification-nlp
-    ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the application:
-    ```bash
-    python app.py
-    ```
-5. Access the web application at `http://localhost:5000`.
 
-## Future Enhancements
-- Integrate additional machine learning models.
-- Experiment with deep learning techniques like LSTM for improved accuracy.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
